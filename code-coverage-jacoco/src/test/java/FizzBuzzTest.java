@@ -1,7 +1,10 @@
+import static org.hamcrest.core.Is.is;
+import static org.junit.Assert.assertNull;
 import static org.junit.Assert.assertThat;
 
 import org.junit.Before;
 import org.junit.Test;
+
 
 /**
  * @author Petri Kainulainen
